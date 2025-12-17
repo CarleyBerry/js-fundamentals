@@ -1,14 +1,30 @@
-# JavaScript Fundamentals - Day0
+# JavaScript Fundamentals – Day 0 🎯
 
-Welcome to **Day0** of the JavaScript Beginner Challenges! 🎉  
-This folder contains 12 simple exercises to practice core JavaScript concepts.
+Welcome to **Day 0** of the JavaScript Beginner Challenges! 🎉  
+This folder contains 12 simple exercises to help you practice core JavaScript concepts and get comfortable writing code.
 
-## 📂 Structure
-- All challenge files are inside the `Day0` folder.
-- Each challenge is named according to its number (e.g. `0_hello.js`, `1_sum.js`, etc.).
+## 📂 Project Structure
 
-## 🚀 How to Run
-1. Make sure you have [Node.js](https://nodejs.org/) installed.
-2. Navigate to the `Day0` folder:
+- All challenge files are inside the `Day0` folder
+- Each challenge file is named according to its number, for example:
+  - `0_hello.js`
+  - `1_sum.js`
+  - `2_conditionals.js`
+  - and so on
+
+## 🚀 How to Run the Challenges
+
+1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine
+2. Open your terminal and navigate to the `Day0` folder:
+
    ```bash
    cd Day0
+   ```
+
+3. Run any challenge file with Node, for example:
+
+   ```bash
+   node 0_hello.js
+   ```
+
+4. Experiment, break things, and tweak the code to understand how it works! 💡
